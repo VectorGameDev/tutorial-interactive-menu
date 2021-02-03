@@ -1,4 +1,4 @@
-# Tutorial Interactive Menu
+# Tutorial Interactive Menu (Simple)
 Unity Tutorial. 
 
 Project from the tutorial ->
